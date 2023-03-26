@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "2134",
-    "database": "task4",
-    "host": "127.0.0.1",
+    "username": "freedb_James",
+    "password": "FXn#7QgJR*ugjNW",
+    "database": "freedb_task#4",
+    "host": "sql.freedb.tech",
     "dialect": "mysql"
   },
   "test": {
@@ -14,10 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "freedb_James",
+    "password": "FXn#7QgJR*ugjNW",
+    "database": "freedb_task#4",
+    "host": "sql.freedb.tech",
     "dialect": "mysql"
   }
 }
